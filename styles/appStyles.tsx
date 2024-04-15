@@ -2,9 +2,8 @@ import { StyleSheet } from "react-native";
 
 export const appStyles = StyleSheet.create({
     directionContainer:{
-        width:200,
+        width:280,
         justifyContent:'flex-start',
-        // flexDirection: "column",
         alignItems:'center',
         backgroundColor: "gray",
     },
